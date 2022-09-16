@@ -7,7 +7,7 @@
 
 [🌐 Click aqui para acessar](https://josimar1628.github.io/Meu-Mundo-Gamer/)
 
-## 📸PREVIEW
+## PREVIEW
 
 ![Page Screenshot](./.github/preview.png)
 
@@ -22,8 +22,12 @@
 
 ## 📚 Aprendizados
 
-Estrutura HTML, como visualizar a partir de um layout no Figma diversos blocos para traduzir em tags para o HTML. Estilização no CSS com o entendimento de camadas, animações, padrões do navegador. O maior desafio foi manter o foco diante de tantas possibilidades e otimização e gestão do tempo.
-Foi o primeiro contato com o Figma, e achei incrível a estrutura montada no mesmo, ferramenta incrível.
+- Estrutura HTML, como visualizar a partir de um layout no Figma diversos blocos para traduzir em tags para o HTML;
+- Estilização no CSS com o entendimento de camadas, animações, padrões do navegador;
+- Versionamento de código;
+- Portfólio no github.
+- O maior desafio foi manter o foco diante de tantas possibilidades, otimização e gestão do tempo.
+E foi o primeiro contato com o Figma, e achei incrível a estrutura montada no mesmo, ferramenta incrível.
 
 
 ## 📝Feedback
